@@ -1,0 +1,91 @@
+request,category
+"My screen turns black whenever I open the application.",Technology
+"The printer produces blank pages even though it has ink.",Technology
+"The app closes unexpectedly when I export a report.",Technology
+"My keyboard types the same letter twice after one press.",Technology
+"The dashboard takes more than a minute to load.",Technology
+"My laptop speakers make a crackling noise during playback.",Technology
+"The scanner is connected but the computer cannot detect it.",Technology
+"The application freezes when I sort a large spreadsheet.",Technology
+"My wireless mouse stops responding every few minutes.",Technology
+"Videos play without sound in the training portal.",Technology
+"The computer restarts by itself while I am working.",Technology
+"My webcam shows a green image instead of video.",Technology
+"The search results page stays blank after I enter a query.",Technology
+"My laptop battery drains completely within an hour.",Technology
+"The latest software update will not finish installing.",Technology
+"My second monitor displays everything at the wrong resolution.",Technology
+"The microphone records only static during test recordings.",Technology
+"The browser uses all available memory when I open the dashboard.",Technology
+"Files copied to my USB drive cannot be opened afterward.",Technology
+"The office computer cannot connect to the wireless network.",Technology
+"Images appear stretched when I resize the application window.",Technology
+"The program displays an error when I try to save a document.",Technology
+"My touchscreen responds in the wrong place when I tap it.",Technology
+"The computer fan runs loudly even when no programs are open.",Technology
+"The application displays yesterday's information after I refresh it.",Technology
+"Dragging an item into the upload area does nothing.",Technology
+"The tablet rotates the display repeatedly while sitting still.",Technology
+"The progress bar stops halfway through every file download.",Technology
+"My Bluetooth headphones disconnect whenever audio starts playing.",Technology
+"The calculator feature returns an incorrect total for decimal values.",Technology
+"I was charged twice for the same monthly subscription.",Billing
+"Please send me a copy of the invoice for my latest purchase.",Billing
+"I canceled my order and would like to request a refund.",Billing
+"The amount on my receipt is higher than the advertised price.",Billing
+"My promotional discount was not applied at checkout.",Billing
+"I need to change the payment card used for future charges.",Billing
+"My refund was approved but has not appeared on my statement.",Billing
+"The invoice lists a service that I did not purchase.",Billing
+"Can I switch from monthly payments to annual billing?",Billing
+"I need a receipt that shows the tax amount separately.",Billing
+"My payment was declined even though my card has available funds.",Billing
+"Please explain the additional processing fee on my bill.",Billing
+"I paid the invoice yesterday but it still shows an outstanding balance.",Billing
+"I would like to cancel automatic subscription renewal.",Billing
+"The invoice uses the wrong billing address.",Billing
+"Can the remaining balance be divided into two payments?",Billing
+"I returned an item but received only part of the expected refund.",Billing
+"The subscription renewed at a higher price than last year.",Billing
+"I need to apply a credit from a previous order to this invoice.",Billing
+"Please confirm whether the listed price includes sales tax.",Billing
+"I selected the basic plan but was billed for the premium plan.",Billing
+"Can you provide an itemized breakdown of this charge?",Billing
+"My bank transfer was sent but the invoice remains unpaid.",Billing
+"I need to update the purchase order number printed on an invoice.",Billing
+"What is the deadline for paying this invoice without a late fee?",Billing
+"I bought a gift subscription and need a separate payment receipt.",Billing
+"The checkout page added shipping charges to a digital purchase.",Billing
+"I accidentally purchased three licenses instead of two and need a refund for one.",Billing
+"Can I receive a prorated credit after downgrading my subscription?",Billing
+"I need a quote showing the total annual subscription cost.",Billing
+"I forgot my password and need to reset it.",Account Access
+"The sign-in page says my account has been locked after too many attempts.",Account Access
+"My password reset link expired before I could use it.",Account Access
+"I cannot receive the verification code needed to sign in.",Account Access
+"I lost the phone that contains my authentication app.",Account Access
+"The website does not recognize the username I entered.",Account Access
+"I need to recover an account after losing access to its email inbox.",Account Access
+"My new password is rejected because it does not meet the requirements.",Account Access
+"I want to sign out of my account on every device.",Account Access
+"The service asks for a recovery code and I cannot find mine.",Account Access
+"I created an account but never received the activation email.",Account Access
+"My saved password no longer lets me sign in.",Account Access
+"I accidentally registered with the wrong email address and cannot verify my account.",Account Access
+"How do I turn on two-step verification for my account?",Account Access
+"I selected Google sign-in but it opened the wrong account.",Account Access
+"The password reset message arrived but the link says it has already been used.",Account Access
+"My account was deactivated and I need instructions for restoring access.",Account Access
+"I changed my phone number and need to update my sign-in verification method.",Account Access
+"Can I change the username I use to sign in?",Account Access
+"I need to create backup recovery codes before replacing my phone.",Account Access
+"The sign-in form keeps returning me to the login page after accepting my credentials.",Account Access
+"I received an unexpected login notification and want to secure my account.",Account Access
+"I can sign in on one device but the other device rejects my credentials.",Account Access
+"My organization requires single sign-on and I do not know which option to choose.",Account Access
+"The reset page says I must choose a password I have not used before.",Account Access
+"I accidentally disabled my only authentication method and cannot get back in.",Account Access
+"I need to remove a remembered device from my account's sign-in settings.",Account Access
+"The account recovery process asks for information I no longer have.",Account Access
+"How can I check which email address is associated with my username?",Account Access
+"I am being asked to verify my identity before I can access my account.",Account Access
